@@ -1,6 +1,8 @@
 # Solana Co Learn
 
-## Solana 入门: Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
+## Solana 入门
+
+Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
 
 ### 1. Rust 速览
 
