@@ -6,6 +6,8 @@ Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
 
 ### 1. Rust 速览
 
+🔗 [Rust 共学文档](https://github.com/CreatorsDAO/rust-co-learn/blob/main/rust-co-learn.md)
+
 - **环境安装**
 - **Cargo 使用配置**
 - **Rust 语法基础**
@@ -16,17 +18,15 @@ Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
   - 模式匹配
   - 注释
 
-🔗 [Rust 共学文档](https://github.com/CreatorsDAO/rust-co-learn/blob/main/rust-co-learn.md)
-
 ### 2. Solana Local Node
+
+🔗 [CLI 安装指南](https://solana.com/zh/developers/guides/getstarted/setup-local-development)
 
 - **CLI 安装**
 - **操作指南**
   - 初始化账户，秘钥对，获得 airdrop
   - 导入导出秘钥，切换网络
   - 启动本地节点，监控 logs
-
-🔗 [CLI 安装指南](https://solana.com/zh/developers/guides/getstarted/setup-local-development)
 
 ### 3. Network Wallet交互
 
