@@ -70,7 +70,24 @@ Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
 
 ## Anchor Framework
 
-- **合约部分**
+[https://www.anchor-lang.com/](https://www.anchor-lang.com/)
+
+### 1. 合约部分
+
+- 安装 anchor [https://www.anchor-lang.com/docs/installation](https://www.anchor-lang.com/docs/installation)
+- anchor 程序基本结构 [https://www.anchor-lang.com/docs/high-level-overview](https://www.anchor-lang.com/docs/high-level-overview)
+- account 数据传递  [https://www.anchor-lang.com/docs/the-accounts-struct](https://www.anchor-lang.com/docs/the-accounts-struct)
+- 不同的调用 [https://www.anchor-lang.com/docs/the-program-module](https://www.anchor-lang.com/docs/the-program-module)
+
+### 2. 客户端部分
+
+[https://creatorsdao.github.io/solana-co-learn/Solana-Co-Learn/module5/anchor-on-the-front-end/anchor-into-typescript/](https://creatorsdao.github.io/solana-co-learn/Solana-Co-Learn/module5/anchor-on-the-front-end/anchor-into-typescript/)
+
+- 连接钱包
+- 获取合约的 IDL 数据，初始化 program 对象
+- 调用合约方法
+- 发送交易
+
 - **前端部分**
   - 构建完整的基于Anchor的Solana应用
 
