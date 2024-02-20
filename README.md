@@ -89,8 +89,7 @@ Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
 - 发送交易
 - 构建一个完整的Anchor的Solana应用
 
-
-## 4. Solana 进阶
+## Solana 进阶
 
 - **PDA 生命周期**
 - **CPI 调用**
