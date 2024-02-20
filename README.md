@@ -87,9 +87,8 @@ Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
 - 获取合约的 IDL 数据，初始化 program 对象
 - 调用合约方法
 - 发送交易
+- 构建一个完整的Anchor的Solana应用
 
-- **前端部分**
-  - 构建完整的基于Anchor的Solana应用
 
 ## 4. Solana 进阶
 
