@@ -41,14 +41,14 @@ Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
 
 使用Solana Native开发、读写 Account Data、Account 数据传输序列化，数据检查（TypeScript SDK基本使用）
 
-### **Solana Native**
+### 1. Solana Native
 
 [Hello world](https://solana.com/zh/developers/guides/getstarted/local-rust-hello-world)
 
 - 编译合约、部署合约、调用合约
 - 区块浏览器查看合约
 
-### **Account 数据基本读写**
+### 2. Account 数据基本读写
 
 [实例实现数据读写](https://creatorsdao.github.io/solana-co-learn/Solana-Co-Learn/module3/native-solana-development/build-a-movie-review-program/)
 
@@ -59,7 +59,7 @@ Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
 - 迭代用户
 - 序列化反序列化数据
 
-### TypeScript SDK
+### 3. TypeScript SDK
 
 [https://solana.com/docs/clients/javascript](https://solana.com/docs/clients/javascript)
 
