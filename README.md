@@ -62,6 +62,7 @@ Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
 ### 3. TypeScript SDK
 
 [https://solana.com/docs/clients/javascript](https://solana.com/docs/clients/javascript)
+[https://solana.com/docs/clients/javascript-reference](https://solana.com/docs/clients/javascript-reference)
 
 - 生成账户
 - 获取 airdrop
@@ -91,7 +92,34 @@ Rust 速览、Solana Local Node、Solana CLI Tools、Network Wallet 交互
 
 ## Solana 进阶
 
-- **PDA 生命周期**
-- **CPI 调用**
-- **SPL Token**
-- **NFT**
+### 1. PDA 生命周期
+
+[https://solanacookbook.com/zh/core-concepts/pdas.html#%E7%BB%BC%E8%BF%B0](https://solanacookbook.com/zh/core-concepts/pdas.html#%E7%BB%BC%E8%BF%B0)
+
+- 生成 PDA 地址 (合约部分，客户端)
+- 创建 PDA 账户 (合约创建)
+- 写入 数据 到 PDA
+
+### 2. CPI 调用
+
+[https://solana.com/docs/core/cpi](https://solana.com/docs/core/cpi)
+
+- 合约内部如何调用其他程序
+
+### 3. SPL Token
+
+[https://spl.solana.com/token](https://spl.solana.com/token)
+[https://www.quicknode.com/guides/solana-development/spl-tokens/how-to-create-a-fungible-spl-token-with-the-new-metaplex-token-standard](https://www.quicknode.com/guides/solana-development/spl-tokens/how-to-create-a-fungible-spl-token-with-the-new-metaplex-token-standard)
+
+- 创建 Token
+- mint Token
+- 添加 Metadata 
+
+### 4. NFT
+
+[https://creatorsdao.github.io/solana-co-learn/Solana-Co-Learn/module2/nfts-and-minting-with-metaplex/](https://creatorsdao.github.io/solana-co-learn/Solana-Co-Learn/module2/nfts-and-minting-with-metaplex/)
+
+[https://creatorsdao.github.io/solana-co-learn/Solana-Co-Learn/module2/displayings-nfts-in-a-ui/displaying-nfts/](https://creatorsdao.github.io/solana-co-learn/Solana-Co-Learn/module2/displayings-nfts-in-a-ui/displaying-nfts/)
+
+- Metaplex SDK 发布 NFT
+- 获取不同的NFT
